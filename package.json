@@ -1,0 +1,23 @@
+{
+  "name": "botkit-testing",
+  "description": "botkit mock testing",
+  "version": "0.1.0",
+  "author": "Renier Ricardo Figueredo <aprezcuba24@gmail.com>",
+  "maintainers": [
+    "Renier Ricardo Figueredo <aprezcuba24@gmail.com>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RockaLabs/botkit-testing"
+  },
+  "keywords": [
+    "botkit",
+    "testing",
+    "bot"
+  ],
+  "main": "./lib/SlackMock",
+  "license": "MIT",
+  "engines": {
+    "node": ">= 6.2.2"
+  }
+}
