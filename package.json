@@ -1,7 +1,7 @@
 {
   "name": "botkit-testing",
   "description": "botkit mock testing",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "author": "Renier Ricardo Figueredo <aprezcuba24@gmail.com>",
   "maintainers": [
     "Renier Ricardo Figueredo <aprezcuba24@gmail.com>"
