@@ -2,7 +2,7 @@
 
 For now is experimental
 
-##Example of conversation
+## Example of conversation
 ```javascript
 module.exports = function(bot, controller){
   controller.hears(['hello'], 'direct_message', function(bot, message){
@@ -29,7 +29,7 @@ module.exports = function(bot, controller){
   });
 };
 ```
-##Example of test
+## Example of test
 ```javascript
 const botMock = require('botkit-testing').create();
 const testedFile = require("../src/bots/simple");
